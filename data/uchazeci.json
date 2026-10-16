@@ -1,0 +1,38 @@
+[
+  {
+    "pozice": "Uklízeč",
+    "jmeno": "Pavel",
+    "vzdelani": "žádné",
+    "vek": 65
+  },
+  {
+    "pozice": "Uklízeč",
+    "jmeno": "Candy",
+    "vzdelani": "vysoká škola života",
+    "vek": 78
+  },
+  {
+    "pozice": "Manager",
+    "jmeno": "mr",
+    "vzdelani": "byznis",
+    "vek": 16
+  },
+  {
+    "pozice": "vládce vesmíru",
+    "jmeno": "pedagog",
+    "vzdelani": "dogma",
+    "vek": 99999
+  },
+  {
+    "pozice": "matematyk",
+    "jmeno": "kvik",
+    "vzdelani": "mats",
+    "vek": 26
+  },
+  {
+    "pozice": "jkjk",
+    "jmeno": "jjkjk",
+    "vzdelani": "jkjk",
+    "vek": 5
+  }
+]
