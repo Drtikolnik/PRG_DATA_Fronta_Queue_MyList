@@ -57,7 +57,7 @@ public class Zasobnik {
 
 
     public void printAll(){
-        for (int i = 0; i < zasobnik.length; i++) {
+        for (int i = 0; i < top+1; i++) {
             System.out.println(zasobnik[i].toString());
         }
     }
@@ -82,7 +82,7 @@ public class Zasobnik {
         int novaKapacita = kapacita + pocet;
 
         Predmet[] zasobnik2 = new Predmet[novaKapacita];
-        for (int i = 0; i < zasobnik.length; i++) {
+        for (int i = 0; i < top+1; i++) {
             zasobnik2[i] = zasobnik[i];
         }
         zasobnik = zasobnik2;

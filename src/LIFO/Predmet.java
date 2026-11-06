@@ -20,14 +20,6 @@ public class Predmet {
     }
 
 
-    public Scanner getSc() {
-        return sc;
-    }
-
-    public void setSc(Scanner sc) {
-        this.sc = sc;
-    }
-
     public String getNazev() {
         return nazev;
     }
