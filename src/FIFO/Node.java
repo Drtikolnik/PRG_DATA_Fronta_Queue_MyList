@@ -1,4 +1,4 @@
-
+package FIFO;
 
 class Node {
     private Uchazec data; // uložená hodnota

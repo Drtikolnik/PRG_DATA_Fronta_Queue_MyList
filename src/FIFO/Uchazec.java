@@ -1,3 +1,5 @@
+package FIFO;
+
 public class Uchazec {
 
     private String pozice;

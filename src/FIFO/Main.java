@@ -1,3 +1,5 @@
+import FIFO.Fronta;
+
 import java.util.*;
 
 void main() {
